@@ -1,5 +1,6 @@
 
 var x = 0;
+var y = 0;
 var speed = 3;
 var img;
 
