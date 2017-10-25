@@ -63,7 +63,7 @@ ellipse(700, x, 50, 50);
 
 
 
-    if (x > width || x < 0) {
+    if (x > height || x < 0) {
     
     speed = speed * -1;
        
